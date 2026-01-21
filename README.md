@@ -4,9 +4,7 @@ Paste into: Amineaman/README.md
 Icons/images: capsule-render + skillicons + shields (very reliable)
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Web+Dev+Starter+%E2%80%A2+GSAP+Animations;Digital+Marketing+Strategy+%E2%80%A2+Paid+Ads;Content+Creation+%E2%80%A2+Consulting+%E2%80%A2+Growth" alt="typing" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Amineaman&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;theme=github_dark#gh-dark-mode-only" alt="stats dark" />
 
 <p align="center">
   <a href="https://github.com/Amineaman">
