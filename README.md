@@ -5,7 +5,7 @@ Icons/images: capsule-render + skillicons + shields (very reliable)
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amine%20El%20Hafsi&fontAlignY=40&desc=Web%20Dev%20Starter%20%7C%20Digital%20Marketing%20Strategist%20%7C%20Ads%20%26%20Content&descAlignY=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;text=Amine%20El%20Hafsi&amp;fontAlignY=40&amp;desc=Web%20Dev%20Starter%20%7C%20Digital%20Marketing%20Strategist%20%7C%20Ads%20%26%20Content&amp;descAlignY=62" alt="header" />
 </p>
 
 <p align="center">
