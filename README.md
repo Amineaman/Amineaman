@@ -1,9 +1,3 @@
-```md
-<!--
-✅ GitHub Profile README (RAW)
-Repo name must be exactly: Amineaman
-File: README.md
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amine%20El%20Hafsi&fontAlignY=40&desc=Web%20Dev%20Starter%20%7C%20Digital%20Marketing%20Strategist%20%7C%20Ads%20%26%20Content&descAlignY=62" alt="header" />
@@ -119,4 +113,3 @@ I learn by building, testing, and improving — both in **code** and **marketing
 - 🌐 Portfolio: (paste your link)
 
 > Want to collaborate or need marketing help? Send me a message.
-```
