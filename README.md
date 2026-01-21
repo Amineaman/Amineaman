@@ -24,7 +24,7 @@ Icons fixed using stable sources: Devicon (jsDelivr) + SimpleIcons (cdn.simpleic
 ---
 
 ## 👋 About
-I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
+I’m **Amine** — a **web developer in training** + **digital marketing consultant**.
 
 **Marketing specialization**
 - **Strategy:** positioning, offer design, personas, funnels, KPIs
@@ -82,7 +82,7 @@ I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
 - Building a stronger **portfolio** (projects + marketing case studies)
 - Improving **JavaScript + GSAP** (modern UI + animations)
 - Shipping better **ad creatives** and testing frameworks
-- Turning projects into **real conversion** (funnels + landing pages)
+- Turning projects into **real conversions** (funnels + landing pages)
 
 ---
 
@@ -115,7 +115,7 @@ I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
 ## 🤝 Contact
 - 📩 Email: **amineaman484@gmail.com**
 - 🔗 GitHub: https://github.com/Amineaman
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (add your link)
+- 💼 LinkedIn: _Add your link_
+- 🌐 Portfolio: _Add your link_
 
-> Open to collaborations and small missions in **marketing / content / ads**.
+> Open to collaborations and short-term projects in **marketing / content / ads**.
