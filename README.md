@@ -54,7 +54,7 @@ I’m **Amine** — a  **Digital Marketing Consultant** + **Web Dev starter**.
 
 **Specialized in:**
 - **Digital marketing strategy:** positioning, offer, personas, funnels, KPIs
-- **Paid ads:** Meta Ads • TikTok Ads • Google Ads (testing + optimization)
+- **Paid ads:** Meta Ads • TikTok Ads • Google Ads • linkedin Ads (testing + optimization)
 - **Content creation:** hooks, copywriting, storytelling, creatives
 - **Consulting:** audit → action plan → execution support
 
