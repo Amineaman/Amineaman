@@ -107,16 +107,6 @@ I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amineaman&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=21600"
-    />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
