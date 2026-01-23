@@ -6,12 +6,7 @@ Notes:
 - All URLs inside HTML attributes use &amp; (important for GitHub rendering).
 -->
 
-<p align="center">
-  <img
-    src="https://svg-banners.vercel.app/api?type=origin&amp;text1=Amine%20El%20Hafsi&amp;text2=Web%20Dev%20Starter%20%7C%20Digital%20Marketing%20Strategist%20%7C%20Ads%20%26%20Content&amp;width=900&amp;height=220"
-    alt="banner"
-  />
-</p>
+
 
 <p align="center">
   <img
