@@ -124,19 +124,7 @@ I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
       media="(prefers-color-scheme: dark)"
       srcset="https://streak-stats.demolab.com?user=Amineaman&amp;theme=github-dark-blue&amp;hide_border=true"
     />
-    <img
-      src="https://streak-stats.demolab.com?user=Amineaman&amp;theme=default&amp;hide_border=true"
-      alt="GitHub streak"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amineaman&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=21600"
-    />
+  
     <img
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amineaman&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;cache_seconds=21600"
       alt="Top languages"
