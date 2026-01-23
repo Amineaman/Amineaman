@@ -115,10 +115,6 @@ I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amineaman&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=21600"
     />
-    <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amineaman&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;theme=default&amp;hide_border=true&amp;cache_seconds=21600"
-      alt="GitHub stats"
-    />
   </picture>
 </p>
 
