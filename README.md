@@ -50,7 +50,7 @@ Notes:
 ---
 
 ## 👋 About
-I’m **Amine** — a **Web Dev starter** + **Digital Marketing Consultant**.
+I’m **Amine** — a  **Digital Marketing Consultant** + **Web Dev starter**.
 
 **Specialized in:**
 - **Digital marketing strategy:** positioning, offer, personas, funnels, KPIs
